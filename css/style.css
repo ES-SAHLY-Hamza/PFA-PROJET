@@ -1,4 +1,7 @@
 .body{
 	font-weight : 30px;
 	background-color : red;
+	color : yellow;
+	padding : 10px ;
+	margin-left : 10px;
 }
